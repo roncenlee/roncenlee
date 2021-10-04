@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roncenlee
 - 👀 I’m interested in coding
-- 🌱 I’m about to start my degree for computer science
+- 🌱 Currently doing my degree for computer science
 - 💞️ I’m here to learn 
 - 📫 How to reach me https://github.com/roncenlee
 
